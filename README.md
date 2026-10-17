@@ -2,8 +2,8 @@
 
 A simple web page that connects to a MySQL database using PHP. It lets a user submit a name and age, saves it to the database, displays all records in a live table, and lets the user toggle each record's status (0/1) instantly — without reloading the page.
 
-## Live Demo
-Hosted on InfinityFree ().
+<!--## Live Demo
+Hosted on InfinityFree (). -->
 
 ## How It Works
 
